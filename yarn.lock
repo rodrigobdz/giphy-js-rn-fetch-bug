@@ -2216,9 +2216,9 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
-giphy-js-sdk-core@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/giphy-js-sdk-core/-/giphy-js-sdk-core-1.0.3.tgz#a3c85f3671963e9a8719f3784fc0cedbdf8964e8"
+giphy-js-sdk-core@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/giphy-js-sdk-core/-/giphy-js-sdk-core-1.0.5.tgz#b935208f482ab4afc55614dc8b9c5bf6153a7664"
   dependencies:
     es6-promise "^4.1.0"
     isomorphic-fetch "^2.2.1"

@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "giphy-js-sdk-core": "1.0.3",
+    "giphy-js-sdk-core": "1.0.5",
     "react": "16.4.1",
     "react-native": "0.56.0"
   },
