@@ -4,7 +4,7 @@
 
 ## Description
 
-The import of `isomorphic-fetch` in [giphy-js-sdk-core](https://github.com/Giphy/giphy-js-sdk-core)@1.0.3 breaks in React Native.
+The [import](https://github.com/Giphy/giphy-js-sdk-core/blob/913afeb5360320a6a02f00c0c0b36933598dec21/src/handlers/RequestHandler.js#L12) of `isomorphic-fetch` in [giphy-js-sdk-core](https://github.com/Giphy/giphy-js-sdk-core)@1.0.3 breaks in React Native.
 
 ## Steps to reproduce
 
